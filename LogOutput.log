@@ -1,0 +1,1011 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (10.12.2023 15:13:14)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 22 plugins to load
+[Info   :   BepInEx] Loading [Free Jester 1.0.3]
+[Info   :atg.FreeJester] Starting Free Jester :D
+[Info   :atg.FreeJester] C:\Lethal Company\BepInEx\plugins\freebird
+[Info   :atg.FreeJester] Free Jester is loaded
+[Info   :   BepInEx] Loading [Boombox No Power 1.0.0.0]
+[Info   :BoomBox.BoomBoxNoPower] Boombox No Power has awoken
+[Info   :   BepInEx] Loading [Quota Rollover 2.1.0]
+[Info   :Quota Rollover] Mod Boxofbiscuits97.QuotraRollover is loaded!
+[Info   :   BepInEx] Loading [Karma For Being Annoying Mod 1.1.0]
+[Info   :Chrigi.KarmaForBeingAnnoyingMod] ________________
+Karma is a bitch!
+________________
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [LethalLib 0.10.1]
+[Info   : LethalLib] LethalLib loaded!!
+[Info   : LethalLib] Utilities.Init()
+[Info   :   BepInEx] Loading [More Ship Upgrades 2.8.0]
+[Info   :   BepInEx] Loading [MoreScreams 1.0.3]
+[Info   :   BepInEx] Loading [Equipment Tweaks 1.0.0]
+[Info   :JPSilver.EquipmentTweaks] EquipmentTweaks is Awake
+[Info   :   BepInEx] Loading [BoomboxController 1.1.3]
+[Info   :BoomboxController]  /$$$$$$$                                    /$$$$$$$                             /$$$$$$                        /$$                         /$$ /$$                    
+[Info   :BoomboxController] | $$__  $$                                  | $$__  $$                           /$$__  $$                      | $$                        | $$| $$                    
+[Info   :BoomboxController] | $$  \ $$  /$$$$$$   /$$$$$$  /$$$$$$/$$$$ | $$  \ $$  /$$$$$$  /$$   /$$      | $$  \__/  /$$$$$$  /$$$$$$$  /$$$$$$    /$$$$$$   /$$$$$$ | $$| $$  /$$$$$$   /$$$$$$ 
+[Info   :BoomboxController] | $$$$$$$  /$$__  $$ /$$__  $$| $$_  $$_  $$| $$$$$$$  /$$__  $$|  $$ /$$/      | $$       /$$__  $$| $$__  $$|_  $$_/   /$$__  $$ /$$__  $$| $$| $$ /$$__  $$ /$$__  $$
+[Info   :BoomboxController] | $$__  $$| $$  \ $$| $$  \ $$| $$ \ $$ \ $$| $$__  $$| $$  \ $$ \  $$$$/       | $$      | $$  \ $$| $$  \ $$  | $$    | $$  \__/| $$  \ $$| $$| $$| $$$$$$$$| $$  \__/
+[Info   :BoomboxController] | $$  \ $$| $$  | $$| $$  | $$| $$ | $$ | $$| $$  \ $$| $$  | $$  >$$  $$       | $$    $$| $$  | $$| $$  | $$  | $$ /$$| $$      | $$  | $$| $$| $$| $$_____/| $$      
+[Info   :BoomboxController] | $$$$$$$/|  $$$$$$/|  $$$$$$/| $$ | $$ | $$| $$$$$$$/|  $$$$$$/ /$$/\  $$      |  $$$$$$/|  $$$$$$/| $$  | $$  |  $$$$/| $$      |  $$$$$$/| $$| $$|  $$$$$$$| $$      
+[Info   :BoomboxController] |_______/  \______/  \______/ |__/ |__/ |__/|_______/  \______/ |__/  \__/       \______/  \______/ |__/  |__/   \___/  |__/       \______/ |__/|__/ \_______/|__/      
+[Info   :   BepInEx] Loading [LC_API 2.1.4]
+[Warning:    LC_API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :    LC_API] LC_API Starting up..
+[Info   :   BepInEx] Loading [LethalClunk 1.1.1]
+[Info   :LethalClunk] Plugin LethalClunk is loaded!
+[Info   :   BepInEx] Loading [LethalPresents 1.0.3]
+[Info   :LethalPresents] Plugin LethalPresents is loaded!
+[Info   :   BepInEx] Loading [MoreCompany 1.7.2]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: C:\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 1.2.2]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :   BepInEx] Loading [PushCompany 1.2.0]
+[Info   :PushCompany] PushCompany has initialized!
+[Info   :   BepInEx] Loading [Helmet_Cameras 2.1.5]
+[Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.5!
+[Info   :Helmet_Cameras] --------Helmet camera patch done.---------
+[Info   :   BepInEx] Loading [Skinwalker Mod 1.0.8]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 1.0.8
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [Yippee tbh mod 1.2.2]
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loading.
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loaded. Yippee!!!
+[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.3]
+[Info   :suskitech.LCAlwaysHearActiveWalkie] \ /
+[Info   :suskitech.LCAlwaysHearActiveWalkie] /|\
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |----|
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |[__]| Always Hear Active Walkies
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.3 Loaded
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |____|
+[Info   :   BepInEx] Loading [Late Company 1.0.6]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [Mimics 2.3.0]
+[Info   :    Mimics] Plugin Mimics is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Message:    LC_API] BundleAPI will now load all asset bundles...
+[Message:    LC_API] BundleAPI got no assets to load from legacy directory
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : LethalLib] Adding 6 items to terminal
+[Info   : LethalLib] MoreShipUpgrades registered item: Portable Tele
+[Info   : LethalLib] MoreShipUpgrades registered item: Advanced Portable Tele
+[Info   : LethalLib] MoreShipUpgrades registered item: Night Vision Goggles
+[Info   : LethalLib] MoreShipUpgrades registered item: Medkit
+[Info   : LethalLib] MoreShipUpgrades registered item: Peeper
+[Info   : LethalLib] MoreShipUpgrades registered item: Diving Kit
+[Info   : LethalLib] Adding 0 unlockables to unlockables list
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   : LethalLib] Adding 0 items to terminal
+[Info   : LethalLib] Diagetic mixer is Diagetic
+[Info   : LethalLib] Found 0 prefabs to fix
+[Info   : LethalLib] Added custom dungeons to levels
+[Info   :LethalClunk] Large Axle Spawned
+[Info   :LethalClunk] Large Axle Spawned
+[Info   :LethalClunk] Large Axle Spawned
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (9)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_0_133490416118292122.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_2_133490416135132441.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_1_133490416122642886.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_3_133490416141401907.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_0_133490416113513205.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_2_133490416130408567.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_1_133490416115977418.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_3_133490416141927617.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (16)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_11_133490416200851737.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_4_133490416148031779.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_10_133490416191174814.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_5_133490416151121031.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_7_133490416168891717.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_6_133490416162574140.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_9_133490416184662457.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_10_133490416222095943.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_4_133490416166237178.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_6_133490416187775226.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_5_133490416175146885.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_8_133490416173285669.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_7_133490416193685613.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_9_133490416214424961.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_8_133490416202967001.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (22)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_12_133490416229559055.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_14_133490416244026922.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_13_133490416234628817.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_15_133490416246877658.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_16_133490416252493828.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_18_133490416274785982.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_17_133490416261551856.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_19_133490416282263477.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_21_133490416298377422.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_11_133490416225258759.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_20_133490416287239925.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_12_133490416231896312.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_14_133490416265436489.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_13_133490416247053617.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_15_133490416269945350.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_17_133490416278272338.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_18_133490416282518715.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_19_133490416291479062.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_16_133490416274030534.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (14)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_23_133490416342450161.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_24_133490416352979489.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_26_133490416379139869.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_21_133490416312789067.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_25_133490416365641299.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_20_133490416297720061.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_22_133490416319413992.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_25_133490416363202217.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_24_133490416358121342.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_26_133490416370863731.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_22_133490416301410373.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_23_133490416324865468.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (16)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_28_133490416401506486.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_27_133490416390619962.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_31_133490416445910668.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_32_133490416457809641.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_30_133490416425406104.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_29_133490416405470188.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_29_133490416404709589.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_27_133490416375419519.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_30_133490416407726968.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_28_133490416398662271.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_31_133490416411620568.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_32_133490416425998646.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_0_133490416297433442.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (14)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_33_133490416468618328.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_36_133490416512483181.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_37_133490416520213930.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_34_133490416481556281.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_35_133490416495666622.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_38_133490416526478340.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_35_133490416501737276.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_36_133490416504599773.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_33_133490416454644835.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_34_133490416474091788.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_37_133490416511427704.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (18)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_40_133490416576873035.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_41_133490416584367864.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_42_133490416588630366.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_43_133490416591007091.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_45_133490416625540754.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_38_133490416545164335.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_3_133490416572882171.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_4_133490416577134391.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_39_133490416539136373.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_2_133490416566474442.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_5_133490416582906777.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_41_133490416614235531.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_44_133490416599934842.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_6_133490416586761954.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_39_133490416552597680.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_40_133490416579275344.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_1_133490416447920967.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (20)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_49_133490416683409210.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_50_133490416686765808.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_48_133490416666329267.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_46_133490416632884723.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_47_133490416651134789.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_43_133490416648335036.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_42_133490416640880494.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_44_133490416651947045.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_52_133490416702351993.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_51_133490416691158526.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_47_133490416676597013.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_48_133490416685009033.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_49_133490416689009303.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_46_133490416668107204.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_45_133490416654594358.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_50_133490416693956431.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_7_133490416596383344.wav
+[Info   :Chrigi.KarmaForBeingAnnoyingMod] NoiseMakerPropItemActivatePacth ACTIVATED BRUHHHHH: Clownhorn(Clone)
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (12)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_54_133490416728214245.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_55_133490416732352218.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_53_133490416709679292.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_57_133490416759563902.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_56_133490416739932867.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_52_133490416741275175.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_51_133490416708484185.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_53_133490416755807218.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_8_133490416688616777.wav
+[Info   :Chrigi.KarmaForBeingAnnoyingMod] NoiseMakerPropItemActivatePacth ACTIVATED BRUHHHHH: Clownhorn(Clone)
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (23)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_54_133490416790082888.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_62_133490416856871082.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_58_133490416766185185.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_60_133490416815791033.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_61_133490416842209162.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_59_133490416828883649.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_59_133490416794180712.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_56_133490416799545972.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_58_133490416825408465.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_55_133490416791401906.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_62_133490416847401575.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_61_133490416838881807.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_60_133490416833689270.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_64_133490416861812512.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_57_133490416806982829.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_63_133490416854213399.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_11_133490416805964029.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_12_133490416810473528.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_10_133490416791401906.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_9_133490416728224346.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (20)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_64_133490416871023897.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_63_133490416864875545.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_66_133490416902612906.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_66_133490416877951820.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_67_133490416910877084.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_67_133490416884735016.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_68_133490416893827775.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_65_133490416875267161.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_65_133490416865398344.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_72_133490416936085670.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_74_133490416945276347.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_71_133490416917799969.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_70_133490416912092043.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_73_133490416939532194.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_69_133490416899015089.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_68_133490416922221331.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_14_133490416915275790.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_13_133490416812091030.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (19)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_69_133490416945956996.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_73_133490416994481037.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_72_133490416989298822.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_71_133490416976744694.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_70_133490416956191151.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_80_133490417001544842.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_76_133490417022348055.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_76_133490416959005935.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_74_133490416997964796.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_75_133490416949804120.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_81_133490417006116710.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_78_133490416981024782.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_79_133490416992998680.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_75_133490417006479780.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_77_133490416963288635.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_82_133490417009542587.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_15_133490416954486674.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (17)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_77_133490417028260014.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_78_133490417033957059.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_79_133490417037004597.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_81_133490417075255096.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_86_133490417064224667.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_85_133490417058602948.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_80_133490417041133366.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_18_133490417095131811.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_83_133490417035389997.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_82_133490417078602709.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_84_133490417045278897.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_87_133490417073143747.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_16_133490416993795760.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_17_133490417036186670.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (15)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_84_133490417116477476.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_83_133490417100244368.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_90_133490417131666364.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_89_133490417126592055.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_86_133490417153151047.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_92_133490417142384488.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_91_133490417134344930.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_85_133490417124879676.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_94_133490417171543064.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_88_133490417090500325.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_93_133490417151680736.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_19_133490417099301805.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_20_133490417116589157.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (18)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_100_133490417234894870.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_101_133490417239924085.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_102_133490417242771298.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_103_133490417249408416.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_96_133490417206744302.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_97_133490417210595202.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_104_133490417254741077.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_99_133490417230761413.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_23_133490417248107402.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_95_133490417192854088.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_98_133490417215278884.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_22_133490417216200467.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_87_133490417163450935.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_88_133490417220605742.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_21_133490417175674667.wav
+[Info   :Chrigi.KarmaForBeingAnnoyingMod] NoiseMakerPropItemActivatePacth ACTIVATED BRUHHHHH: Airhorn(Clone)
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (11)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_105_133490417267946014.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_110_133490417332079913.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_89_133490417265160265.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_109_133490417327545239.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_106_133490417277273531.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_90_133490417299289882.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_107_133490417288205759.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_108_133490417301023000.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (10)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_114_133490417403282250.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_111_133490417340777801.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_115_133490417417557326.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_113_133490417382089006.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_112_133490417354340161.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_91_133490417326607093.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_24_133490417257432119.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (17)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_93_133490417440072653.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_95_133490417470195794.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_94_133490417452879182.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_96_133490417479299825.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_97_133490417498869581.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_119_133490417456347434.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_118_133490417451980717.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_117_133490417438590475.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_121_133490417503029017.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_116_133490417427278965.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_92_133490417413287160.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_26_133490417435668949.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_27_133490417448873648.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_120_133490417458797005.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_25_133490417369143970.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (25)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_100_133490417519141404.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_101_133490417532199021.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_102_133490417536212404.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_103_133490417539682969.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_104_133490417547264972.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_105_133490417555130601.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_106_133490417564336326.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_107_133490417569791962.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_108_133490417577672010.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_109_133490417582339541.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_99_133490417515791710.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_98_133490417507682845.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_123_133490417526213344.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_124_133490417530080815.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_122_133490417512181625.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_128_133490417557530516.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_126_133490417545135899.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_125_133490417535271845.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_129_133490417560232239.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_127_133490417550201521.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_28_133490417482091547.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_29_133490417524251390.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (10)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_112_133490417654912287.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_110_133490417590105356.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_133_133490417650086514.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_134_133490417662752066.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_132_133490417631003990.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_131_133490417616349840.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_111_133490417608730887.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_130_133490417569412563.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (20)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_114_133490417681833829.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_113_133490417663442180.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_118_133490417729572618.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_116_133490417706406271.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_117_133490417719470465.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_115_133490417684743874.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_136_133490417680235239.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_139_133490417703787284.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_135_133490417671754934.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_137_133490417684947518.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_142_133490417734108623.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_138_133490417695173254.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_144_133490417744933631.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_140_133490417709493441.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_143_133490417740227129.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_141_133490417721911963.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_30_133490417563952648.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (18)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_120_133490417790082675.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_122_133490417810958253.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_123_133490417817882346.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_124_133490417821435870.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_121_133490417799637029.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_147_133490417773968769.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_146_133490417765557672.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_149_133490417791678099.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_151_133490417802835518.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_148_133490417776914198.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_145_133490417749047193.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_119_133490417745957246.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_150_133490417795568472.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_152_133490417806635984.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_153_133490417818892582.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_125_133490417828287063.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (13)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_128_133490417863967219.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_126_133490417832607954.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_156_133490417852298041.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_154_133490417829035271.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_159_133490417879497843.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_127_133490417842307436.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_157_133490417858381516.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_155_133490417839255698.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_158_133490417866427600.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_160_133490417884578570.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (17)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_130_133490417951273683.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_162_133490417912424716.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_163_133490417915614569.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_161_133490417902086025.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_165_133490417934618305.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_167_133490417955709527.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_168_133490417960497927.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_164_133490417918267486.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_170_133490417976274004.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_171_133490417984072716.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_169_133490417964406414.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_166_133490417941942380.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_131_133490417955250955.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_129_133490417868420498.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (21)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_136_133490418066296634.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_135_133490418061924324.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_172_133490417989826578.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_173_133490418001825319.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_133_133490418022953556.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_134_133490418044046557.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_175_133490418017965761.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_174_133490418007840470.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_132_133490417990273387.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_177_133490418040461579.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_176_133490418030257188.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_180_133490418064765257.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_179_133490418055563877.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_181_133490418067705704.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_178_133490418047434980.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_34_133490418062354075.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_32_133490417996103774.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_33_133490418020569680.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_31_133490417706757996.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (17)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_140_133490418135667840.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_182_133490418079019874.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_139_133490418129536631.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_183_133490418082492838.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_186_133490418123534928.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_187_133490418126464268.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_185_133490418110617533.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_188_133490418129546637.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_190_133490418145933245.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_189_133490418133257738.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_184_133490418089875839.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_137_133490418071225187.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_138_133490418105453767.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_35_133490418067952695.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (12)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_192_133490418162578574.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_191_133490418149665468.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_193_133490418174185592.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_197_133490418209930825.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_195_133490418191255899.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_198_133490418216868266.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_194_133490418180338112.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_196_133490418195932480.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_199_133490418224577968.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_141_133490418141784890.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (13)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_145_133490418290869735.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_200_133490418232992859.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_143_133490418261787664.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_202_133490418241149939.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_201_133490418235537115.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_146_133490418297391606.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_205_133490418302350573.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_203_133490418247809725.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_204_133490418273660422.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_144_133490418269779363.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_142_133490418192984858.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (17)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_150_133490418346188324.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_149_133490418339285596.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_152_133490418361278510.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_151_133490418353131255.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_153_133490418366594248.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_154_133490418370595398.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_148_133490418321130923.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_147_133490418305400507.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_206_133490418335942613.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_207_133490418343276951.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_208_133490418382467154.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_38_133490418347952730.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_37_133490418338067326.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_39_133490418357264036.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_36_133490418076608418.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (17)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_156_133490418421270848.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_157_133490418425788237.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_158_133490418432584216.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_159_133490418442866069.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_209_133490418415392761.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_210_133490418420737801.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_211_133490418426995372.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_212_133490418433678872.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_213_133490418439668024.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_215_133490418449385642.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_214_133490418443130144.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_216_133490418455131406.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_155_133490418383933685.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_160_133490418453530849.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_40_133490418379134013.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (25)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_162_133490418486336766.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_163_133490418490471550.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_165_133490418502599917.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_164_133490418495677102.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_166_133490418507274456.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_161_133490418470195828.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_167_133490418521545006.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_217_133490418473678807.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_169_133490418538741046.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_218_133490418477289185.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_219_133490418487685217.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_220_133490418496077708.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_221_133490418500890908.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_168_133490418527947393.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_222_133490418503543872.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_223_133490418510873942.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_225_133490418526207600.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_224_133490418515699236.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_227_133490418539753741.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_228_133490418544063755.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_226_133490418531554361.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_41_133490418427142902.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (21)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_171_133490418584474213.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_174_133490418608116349.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_230_133490418568991374.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_229_133490418552332341.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_173_133490418601588721.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_43_133490418571792237.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_172_133490418591788910.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_231_133490418584741652.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_232_133490418596992434.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_44_133490418575392179.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_46_133490418597696739.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_175_133490418616220829.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_170_133490418546487117.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_50_133490418628536461.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_47_133490418601598719.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_49_133490418623146907.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_233_133490418606148367.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_48_133490418613795821.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_45_133490418584880437.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_42_133490418543281211.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (22)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_177_133490418638368328.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_176_133490418630349686.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_178_133490418646358344.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_179_133490418654087481.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_181_133490418690217131.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_234_133490418640721616.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_235_133490418645171394.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_180_133490418661843520.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_182_133490418693805890.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_237_133490418655542934.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_53_133490418689290168.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_239_133490418667192867.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_236_133490418648247061.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_241_133490418693127735.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_242_133490418699491726.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_238_133490418658089747.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_54_133490418692661624.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_240_133490418671443325.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_51_133490418649559911.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_52_133490418665602072.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (13)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_183_133490418704232073.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_244_133490418740326564.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_245_133490418750302546.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_247_133490418774522009.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_185_133490418751301455.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_56_133490418772778630.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_184_133490418722450576.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_246_133490418754432389.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_243_133490418707463188.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_55_133490418718889518.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_57_133490418779052924.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (21)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_187_133490418796121950.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_189_133490418816681109.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_190_133490418825787429.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_192_133490418844426870.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_188_133490418801422910.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_191_133490418838242909.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_194_133490418862497926.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_249_133490418801678443.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_248_133490418789928884.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_195_133490418868385759.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_186_133490418767703385.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_193_133490418849820182.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_251_133490418818623638.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_250_133490418806617421.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_255_133490418863841550.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_252_133490418826285963.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_254_133490418849314614.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_253_133490418835865171.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_58_133490418793848916.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_59_133490418813436411.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_60_133490418828883190.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (17)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_199_133490418921298756.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_198_133490418907106845.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_197_133490418894751023.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_200_133490418926109240.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_196_133490418874278386.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_258_133490418906218968.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_259_133490418913425965.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_256_133490418877565857.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_260_133490418918668396.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_257_133490418891066314.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_261_133490418923278144.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_262_133490418929442606.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_263_133490418932285624.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_62_133490418910729844.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_61_133490418885106043.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (15)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_202_133490418967993065.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_204_133490419009180785.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_205_133490419018639337.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_206_133490419023614412.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_267_133490418998791196.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_268_133490419003829741.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_201_133490418934749528.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_266_133490418985693938.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_269_133490419009452210.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_270_133490419013144086.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_271_133490419020122339.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_272_133490419026913620.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_264_133490418943099374.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_265_133490418963699371.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_203_133490418971714255.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (21)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_208_133490419049138202.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_207_133490419036609926.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_209_133490419053288830.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_210_133490419059478174.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_211_133490419068445290.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_214_133490419097655850.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_213_133490419091219635.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_215_133490419102494205.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_212_133490419071591164.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_216_133490419105552648.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_217_133490419108956038.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_274_133490419045869764.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_275_133490419053844321.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_277_133490419070218645.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_273_133490419035833981.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_276_133490419057739085.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_278_133490419080383373.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_279_133490419084576133.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_281_133490419096071929.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_280_133490419089699198.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_282_133490419105048528.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (14)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_220_133490419127170558.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_218_133490419114670939.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_219_133490419118693017.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_221_133490419129481239.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_284_133490419119348037.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_283_133490419114833151.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_222_133490419160416109.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_286_133490419143515751.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_288_133490419158276521.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_287_133490419147114783.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_285_133490419123604071.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_289_133490419164830671.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (17)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_224_133490419216499467.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_225_133490419219951783.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_226_133490419225846524.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_228_133490419235815817.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_227_133490419232674128.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_229_133490419242033966.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_230_133490419254744763.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_223_133490419179100309.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_291_133490419199658428.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_292_133490419207015501.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_293_133490419214247860.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_290_133490419183536150.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_294_133490419220886291.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_295_133490419224492998.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_296_133490419260135232.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (13)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_233_133490419303475324.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_234_133490419311496246.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_232_133490419292716650.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_299_133490419304492072.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_298_133490419298296752.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_300_133490419308874565.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_235_133490419327097105.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_301_133490419334689290.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_302_133490419339878188.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_231_133490419261458498.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_303_133490419343347759.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_297_133490419265864859.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (15)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_236_133490419368841834.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_239_133490419410936295.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_306_133490419364837363.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_241_133490419424388974.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_240_133490419413713127.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_305_133490419361548740.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_309_133490419384996139.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_238_133490419393691704.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_307_133490419365055435.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_304_133490419350547263.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_311_133490419409081425.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_308_133490419372091001.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_312_133490419415408549.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_310_133490419395890677.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_237_133490419382617059.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (15)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_242_133490419438833525.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_243_133490419449281801.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_244_133490419456957983.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_246_133490419482514418.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_245_133490419478296118.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_313_133490419448421638.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_314_133490419460521052.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_315_133490419467282971.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_316_133490419478097298.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_317_133490419499482621.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_318_133490419509645690.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_63_133490419489201232.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_64_133490419496112580.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (14)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_319_133490419513349708.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_250_133490419585694310.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_248_133490419535237790.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_320_133490419520134879.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_321_133490419528590881.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_322_133490419538168214.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_323_133490419550866593.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_324_133490419570096206.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_247_133490419498291978.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_325_133490419578368114.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_66_133490419576493029.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_249_133490419545457221.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_326_133490419586686790.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_65_133490419547926324.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (20)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_252_133490419610353402.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_254_133490419650987760.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_251_133490419595740243.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_255_133490419654051734.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_257_133490419668001784.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_328_133490419612742379.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_327_133490419599937273.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_256_133490419660586504.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_329_133490419616207107.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_331_133490419632543001.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_330_133490419625918772.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_333_133490419644917357.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_332_133490419637713651.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_334_133490419652083835.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_253_133490419618313319.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_335_133490419655919244.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_336_133490419665394756.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_68_133490419665384209.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_67_133490419643157728.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (13)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_258_133490419675823158.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_259_133490419689297995.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_261_133490419742824132.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_337_133490419673951554.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_339_133490419690806956.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_338_133490419678296907.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_340_133490419705833362.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_341_133490419713815065.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_342_133490419731509638.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_343_133490419745413298.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_260_133490419695738512.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_69_133490419689907591.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (18)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_263_133490419764886766.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_262_133490419750189793.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_266_133490419801646726.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_265_133490419790892233.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_268_133490419813062290.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_264_133490419772231064.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_267_133490419809853929.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_344_133490419774676419.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_345_133490419792487867.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_348_133490419827893126.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_347_133490419819311525.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_346_133490419805030249.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_71_133490419782676324.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_70_133490419775754268.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_73_133490419813843038.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_72_133490419787701505.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (15)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_270_133490419864650126.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_350_133490419845028691.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_352_133490419864660104.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_349_133490419836149487.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_351_133490419850325380.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_269_133490419820691914.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_354_133490419889704723.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_355_133490419905809007.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_353_133490419870471003.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_271_133490419885436829.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_75_133490419864919570.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_76_133490419886235135.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_74_133490419817016541.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (14)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_274_133490419955172731.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_275_133490419959153881.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_358_133490419923941138.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_356_133490419913566696.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_360_133490419948475156.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_357_133490419917463603.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_359_133490419941325965.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_273_133490419935346772.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_272_133490419908364778.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_276_133490419964311001.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_77_133490419917463603.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_78_133490419960369001.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (18)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_279_133490420039037652.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_281_133490420062135185.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_361_133490419993347142.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_364_133490420026236477.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_280_133490420046357333.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_368_133490420070642295.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_366_133490420043411840.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_365_133490420036669207.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_79_133490420005037110.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_363_133490420022617859.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_82_133490420070051520.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_362_133490420013301243.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_278_133490420007156279.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_367_133490420046167754.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_277_133490419978968171.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_81_133490420046357333.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_80_133490420008834256.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (14)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_282_133490420070927832.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_284_133490420104306942.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_283_133490420076351415.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_286_133490420135846336.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_371_133490420134575976.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_285_133490420122350436.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_372_133490420139583117.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_370_133490420088973261.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_369_133490420082669441.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_373_133490420147547737.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_374_133490420150490051.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_83_133490420076058915.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (16)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_290_133490420199488835.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_375_133490420155549832.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_287_133490420142818294.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_291_133490420210522705.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_377_133490420185756476.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_288_133490420166671782.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_380_133490420212774361.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_378_133490420195855734.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_379_133490420202220950.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_376_133490420173528445.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_381_133490420221911909.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_289_133490420179608625.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_86_133490420183476284.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_87_133490420186574545.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_85_133490420160141241.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_84_133490420130119761.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (16)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_292_133490420238444793.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_294_133490420276254641.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_293_133490420259022873.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_296_133490420295286745.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_295_133490420283125351.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_382_133490420235568754.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_383_133490420246284167.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_384_133490420256284505.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_386_133490420289042546.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_385_133490420265746715.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_387_133490420297957610.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_388_133490420310933832.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_88_133490420284919854.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e375e06c-ae5f-4e73-8f17-9f918317282d_89_133490420289838285.wav
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (10)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_298_133490420342658051.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_299_133490420351317300.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_390_133490420347895071.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_36b4ffd5-4bbc-4c47-9a75-58133b294f68_391_133490420352446721.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path C:/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_11fc58a1-a907-4e70-b92c-cb54f4da6087_297_133
